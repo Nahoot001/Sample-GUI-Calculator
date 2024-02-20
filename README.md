@@ -1,4 +1,4 @@
-Sample GUI Calculator
+## Sample GUI Calculator
 
 A Graphical User Interface (GUI) Calculator using Python's Tkinter library. 
 
